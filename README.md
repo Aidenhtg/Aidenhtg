@@ -10,7 +10,7 @@
 <h3>Socials</h3>
 
 <div>
-    <a href="https://core-is-a-dev.netlify.app"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
+    <a href="https://core.is-a.dev"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@corussy"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
