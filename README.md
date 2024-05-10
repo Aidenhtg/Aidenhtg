@@ -1,7 +1,7 @@
 <div id="SealedSaucer" align="center">
   <h3> Hey there, I'm <a href="https://core.is-a.dev">CORE!</a> 👋 </h3>
   <br>
-  <a href="https://discord.com/users/919997719144202291"><img height="80px" src="https://discord.c99.nl/widget/theme-3/919997719144202291.png"/></a>
+  <a href="https://discord.com/users/919997719144202291"><img height="80px" src="https://discord.c99.nl/widget/theme-2/365205551988342794.png"/></a>
   <br><br>
   <a href="https://core-is-a-dev.netlify.app"><img src="https://img.shields.io/website?label=core.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fcore.is-a.dev"></a>
 
